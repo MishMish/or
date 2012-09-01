@@ -1,0 +1,43 @@
+div.tweets-pulled-listing ul {
+  list-style: none;
+  margin: 0;
+  padding-bottom: 0;
+}
+
+div.tweets-pulled-listing li {
+	background-color: #fff;
+	padding: 5px;
+	margin-bottom: 10px;
+	border: 1px solid #ebebeb;
+	border-radius: 5px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+}
+
+ul.tweets-pulled-listing {
+	padding: 10px;
+	border: 1px solid #ebebeb;
+	background-color: #f9f9f9;
+	border-radius: 5px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+}
+
+div.tweets-pulled-listing div.tweet-authorphoto {
+  margin: 0 5px 0 0;
+  float: left;
+}
+
+div.tweets-pulled-listing div.tweet-authorphoto img {
+  max-height: 40px;
+  max-width: 40px;
+}
+
+div.tweets-pulled-listing .tweet-author a {
+  font-weight: bold;
+}
+
+div.tweets-pulled-listing  div.tweet-divider {
+  clear: left;
+  margin: 5px 0 5px 0;
+}

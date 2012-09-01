@@ -1,0 +1,56 @@
+/* @override http://localhost:8888/or/modules/search/search.css?m362hk */
+
+
+.search-form {
+  margin-bottom: 1em;
+}
+.search-form input {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.search-form input[type=submit] {
+
+}
+
+#edit-submit--2 {
+border-radius: 5px;
+color: #fff;
+text-decoration: none;
+cursor: pointer;
+display: inline-block;
+text-align: center;
+line-height: 1;
+
+font-weight: bold;
+font-size: small;
+padding: 5px 7px 6px;
+border-style: none;	
+}
+
+.search-results {
+  list-style: none;
+}
+.search-results p {
+  margin-top: 0;
+}
+.search-results .title {
+  font-size: 1.2em;
+}
+.search-results li {
+  margin-bottom: 1em;
+}
+.search-results .search-snippet-info {
+  padding-left: 1em; /* LTR */
+}
+.search-results .search-info {
+  font-size: 0.85em;
+}
+.search-advanced .criterion {
+  float: left; /* LTR */
+  margin-right: 2em; /* LTR */
+}
+.search-advanced .action {
+  float: left; /* LTR */
+  clear: left; /* LTR */
+}
